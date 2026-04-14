@@ -1,5 +1,7 @@
 # Girls' Education — Messaging Gap Analysis
 
+> 📓 **[View the rendered notebook on nbviewer](https://nbviewer.org/github/zohrehKazemianpour/girls-education-analysis/blob/main/analysis.ipynb)**
+
 This project looks at why girls drop out of secondary school in sub-Saharan Africa, and whether NGO communications actually address the reasons families give.
 
 The central question: **is there a gap between what families say causes dropout and what NGOs talk about?**
